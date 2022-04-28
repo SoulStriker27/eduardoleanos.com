@@ -39,14 +39,14 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2018, text: 'Went back to school to study Computer Science', },
+  { year: 2019, text: 'Started my internship with Discover Financial Services (DFS)', },
+  { year: 2020, text: 'Graduted NIU with honors and started working fulltime for DFS', },
+  { year: 2022, text: 'Started my own platform', },
 ];
 
 export const acomplishmentsData = [
-  { number: 20, text: 'Open Source Projects'},
+  { number: 3.963, text: 'GPA'},
   { number: 1000, text: 'Students', },
   { number: 1900, text: 'Github Followers', },
   { number: 5000, text: 'Github Stars', }

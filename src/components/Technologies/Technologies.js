@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with all technologies
+      I've worked with a broad tech stack and languages
     </SectionText>
     <List>
       <ListItem>
@@ -18,7 +18,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experienced with <br />
-            React.js
+            React.js and AngularJS
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -32,7 +32,7 @@ const Technologies = () =>  (
           </ListParagraph>
         </ListContainer>
       </ListItem>
-      <ListItem>
+      {/* <ListItem>
         <DiFirebase size="3rem"/>
         <ListContainer>
           <ListTitle>UI/IX</ListTitle>
@@ -41,7 +41,7 @@ const Technologies = () =>  (
             Tools like Figms
           </ListParagraph>
         </ListContainer>
-      </ListItem>
+      </ListItem> */}
     </List>
   </Section>
 );

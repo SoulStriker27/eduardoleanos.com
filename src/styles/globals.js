@@ -25,6 +25,18 @@ const GlobalStyles = createGlobalStyle`
   h1,h2,h3,h4,h5,h6,button {
     font-family: ${props => props.theme.fonts.title};
   }
+
+  h6:after {
+    content: "";
+    display: block;
+    position: relative;
+    width: 7rem;
+    height: 4px;
+    top: -1.4rem;
+    left: 13.5rem;
+    background-color: #37b4e6;
+}
+
   a {
     text-decoration: none;
   }

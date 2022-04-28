@@ -43,10 +43,11 @@ const Timeline = () => {
   }, []);
 
   return (
-    <Section>
+    <Section id="about" >
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I started learning back in 2018
+        I've always had a knack for building things. From lego cities in my younger years to handcrafting furniture out of any spare material I had laying around.
+        It felt like software engineering would be a perfect transition into always creating something new.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
