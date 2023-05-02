@@ -8,17 +8,17 @@ const Hero = (props) => (
   <Section>
     <br />
     <LeftSection>
-      <h2> Hello, I am <h6/> </h2>
+      <h2> Hello, my name is <h6 /> </h2>
       <SectionTitle main center>
         Eduardo Leanos <br />
         &lt; Full-Stack Developer / &gt;
       </SectionTitle>
       <SectionText>
-      I enjoy designing and building quality web apps. Targeting Python, Javascript and other web development opportunities. 
+      I enjoy designing and building enterprise applications. Targeting Python, Java and many other development opportunities. 
       <br /><br />
-      I'm open to learning, adapt to work with the team, and use skills to solve complex challenges and provide value to the growth of an organization.
+      I am keen to learning new skills, adapting to new team dynamics, and solving complex challenges to provide value to the growth of an organization.
       </SectionText>
-      <Button onClick={() => window.location = 'https://google.com'}> Learn More </Button>
+      <Button onClick={() => window.location = 'https://github.com/SoulStriker27?tab=repositories'}> Learn More </Button>
     </LeftSection>
   </Section>
 );

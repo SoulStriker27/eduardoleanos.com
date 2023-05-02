@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a broad tech stack and languages
+      I've worked with a variety of techonlogy stacks and languages. 
     </SectionText>
     <List>
       <ListItem>
@@ -28,20 +28,20 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experienced with <br />
-            Nodejs and Databases
+            Java, Python, Javascript
           </ListParagraph>
         </ListContainer>
       </ListItem>
-      {/* <ListItem>
+      <ListItem>
         <DiFirebase size="3rem"/>
         <ListContainer>
           <ListTitle>UI/IX</ListTitle>
           <ListParagraph>
             Experienced with <br />
-            Tools like Figms
+            Tools like Figma
           </ListParagraph>
         </ListContainer>
-      </ListItem> */}
+      </ListItem>
     </List>
   </Section>
 );

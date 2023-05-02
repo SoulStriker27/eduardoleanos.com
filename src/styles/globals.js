@@ -33,7 +33,7 @@ const GlobalStyles = createGlobalStyle`
     width: 7rem;
     height: 4px;
     top: -1.4rem;
-    left: 13.5rem;
+    left: 20.5rem;
     background-color: #37b4e6;
 }
 
